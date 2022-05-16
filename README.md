@@ -34,7 +34,7 @@ Approach Taken
 
 I started my approach with viewing several tutorials on YouTube so that I may garner a general exposure to the steps that the Tubers used with coding their games.  After several falsestarts, I settled on a tutorial by a user "Canta Coder" because his approach was seeming more direct to me.  I then made some customizations with some images, background color, and especially with the sounds & music played. 
 
-Unsolved Problems & Resolve Plans
+Unsolved Problems & Resolution Goals
 
 - The photon missile still skews slightly to the left; also, the photon missile stops midway across the battle-arena.  In the future, I want the photon to continually fly out of the arena after missing its target
 
@@ -43,6 +43,10 @@ Unsolved Problems & Resolve Plans
 - I want to add several additional enemies that hover in a erractic pattern for targeted shooting
 
 - I want to change the background to a moving space background to simulate flying in space
+
+- There's also a delay with when the background music starts to play.  I intend that the music starts to play immediately when the game starts.  (I selected Sinatra's "Fly Me to the Moon" as the background music because it's punny, and it's the song I'd want to listen to if it was me flying in the cockpit)
+
+- My son also wants me to add a Game Boss
 
 
 Resources
