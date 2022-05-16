@@ -17,3 +17,12 @@ Objective
 
 Inline-style: 
 ![alt text](./Img/Alien%20Outbreak%20Wireframe.JPG)
+
+Technologies Used
+
+* HTML for game layout
+
+* CSS for characters/objects design & animation
+
+* Javacript for game functions, objects & music/sounds
+
