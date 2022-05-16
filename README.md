@@ -40,7 +40,7 @@ Unsolved Problems & Future Development
 
 - I want to include an explosive sound and animation after a target has been hit
 
-- I want to add several additional enemies that hover in a erractic pattern for targeted shooting
+- I want to add several additional enemies that hover in a erractic pattern for targeted shooting; in addition, I want to add remarks from the aliens taunting the player
 
 - I want to change the background to a moving space background to simulate flying in space
 
