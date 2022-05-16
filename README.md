@@ -34,7 +34,7 @@ Approach Taken
 
 I started my approach with viewing several tutorials on YouTube so that I may garner a general exposure to the steps that the Tubers used with coding their games.  After several falsestarts, I settled on a tutorial by a user "Canta Coder" because his approach was seeming more direct to me.  I then made some customizations with some images, background color, and especially with the sounds & music played. 
 
-Unsolved Problems & Resolution Goals
+Unsolved Problems & Future Development
 
 - The photon missile still skews slightly to the left; also, the photon missile stops midway across the battle-arena.  In the future, I want the photon to continually fly out of the arena after missing its target
 
