@@ -44,7 +44,7 @@ Unsolved Problems & Resolution Goals
 
 - I want to change the background to a moving space background to simulate flying in space
 
-- There's also a delay with when the background music starts to play.  I intend that the music starts to play immediately when the game starts.  (I selected Sinatra's "Fly Me to the Moon" as the background music because it's punny, and it's the song I'd want to listen to if it was me flying in the cockpit)
+- There's also a delay when the background music starts to play.  I had intended that the music start to play immediately when the game starts.  (I selected Sinatra's "Fly Me to the Moon" as the background music because it's punny, and it's the song I'd want to listen to if it was me flying in the cockpit)
 
 - My son also wants me to add a Game Boss
 
